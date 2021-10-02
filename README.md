@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @David200308
+- I'm The Hong Kong PolyU COMP Student (Year 1)
 - 👀 I’m interested in Machine Learning & Blockchain Develop & Web Develop
 - 🌱 I’m currently learning Python in Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 David200308/David200308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
