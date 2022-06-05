@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @David200308
 - I'm The Hong Kong PolyU COMP Student (Class of 2025)
 - 👀 I’m interested in Machine Learning & Blockchain Develop & Web Develop
-- 🌱 I’m currently learning Python in Machine Learning
+- 🌱 I’m currently learning Computer Science
 
 
 <!---
