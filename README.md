@@ -10,7 +10,7 @@
   - **Python**, **C++**, **R**, **Java**
 
 - Web Development: 
-  - **HTML5**, **CSS**, **JavaScript**, , [**Next.JS**](https://nextjs.org/)
+  - **HTML5**, **CSS**, **JavaScript**, [**Next.JS**](https://nextjs.org/)
 
 - Machin Learning:
   - **Pytorch**, **Keras**
