@@ -7,7 +7,7 @@
 
 ### 💻 Developer & User & Learner of
 - Programming: 
-  - **Java**, **Python**, **SQL**, **C++**, **R**
+  - **Java**, **Python**, **SQL**, **Solidity**, **C++**, **R**
 
 - Web Development: 
   - **HTML5**, **CSS**, **JavaScript**, [**Next.JS**](https://nextjs.org/)
