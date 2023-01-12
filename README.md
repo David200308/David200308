@@ -7,10 +7,10 @@
 
 ### 💻 Developer & User & Learner of
 - Programming: 
-  - **Java**, **Python**, **SQL**, **Solidity**, **C++**, **R**
+  - **Java**, **Python**, **SQL**, **Solidity**, **HTML5**, **CSS**, **JavaScript**, **C++**, **R**
 
-- Web Development: 
-  - **HTML5**, **CSS**, **JavaScript**, [**Next.JS**](https://nextjs.org/)
+- Web Development Framework: 
+  - **React.JS**, **Next.JS**
 
 - Machin Learning:
   - **Pytorch**, **Keras**
