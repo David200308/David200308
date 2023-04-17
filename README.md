@@ -7,10 +7,13 @@
 
 ### 💻 Developer & User & Learner of
 - Programming: 
-  - **JavaScript**, **Python**, **Java**, **SQL**, **Solidity**, **Swift**, **HTML5**, **CSS**, , **C++**, **R**
+  - **JavaScript**, **Python**, **Java**, **SQL**, **Solidity**, **Swift**, **HTML5**, **CSS**, **C++**, **R**
 
 - Web Development Framework: 
   - **React.JS**, **Next.JS**
+
+- Web 3 & Blockchain:
+  - **Smart Contract**, **Web3.js**, **Ethers.js**, **Web3.py**, **Truffle**, **NFT**, **DApp**
 
 - Machin Learning:
   - **Pytorch**, **Keras**
