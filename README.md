@@ -7,13 +7,16 @@
 
 ### 💻 Developer & User & Learner of
 - Programming: 
-  - **JavaScript**, **Python**, **Java**, **SQL**, **Solidity**, **Swift**, **HTML5**, **CSS**
+  - **JavaScript**, **TypeScript**, **Python**, **Java**, **SQL**, **Solidity**, **Swift**
 
-- Web Framework: 
-  - **Node.JS**, **Express.JS**, **Flask**, **React.JS**, **Next.JS**
+- Web Framework (RunTime Env & Backend & Frontend): 
+  - **Node.JS**, **Express.JS**, **Fastify**, **Flask**, **React.JS**, **Next.JS**
  
 - Web API Styles: 
   - **RESTful**, **GraphQL**
+ 
+- Mobile:
+  - **SwiftUI & Swift**, **React Native**
  
 - Database: 
   - **MySQL**, **MongoDB**, **Oracle**, **SQLite**
