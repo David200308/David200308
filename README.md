@@ -5,6 +5,17 @@
 
 ---
 
+### Working Experiences
+- Moon Lab Limited
+  - Backend & Blockchain Development Internship [2024-01 to 2024-07]
+- Omniscol
+  - Information Technology Internship [2023-06 to 2023-07]
+- Evergreen Wearable Technology Limited
+  - Full Stack & Web3 Development Internship [2023-08 to 2023-08]
+  - Development Apprenticeship [2023-02 to 2023-05]
+
+---
+
 ### 💻 Developer & User & Learner of
 - Programming: 
   - **JavaScript**, **TypeScript**, **Python**, **Java**, **SQL**, **Solidity**, **Swift**
@@ -15,7 +26,7 @@
 - Web API Styles: 
   - **RESTful**, **GraphQL**
  
-- Mobile:
+- Mobile Development:
   - **SwiftUI & Swift**, **React Native**
  
 - Database: 
@@ -23,8 +34,6 @@
 
 - Machin Learning:
   - **Pytorch**, **Keras**
-
----
 
 
 <!---
