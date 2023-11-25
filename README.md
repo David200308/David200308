@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @David200308
-- I'm The Hong Kong PolyU COMP Student (Class of 2025)
+- I'm The Hong Kong PolyU Computer Science Student (Class of 2025)
 - 👀 I’m interested in Web Development & iOS Development & Blockchain Development & Computer Vision
-- 🌱 I’m currently learning Computer Science
-
+- 
 ---
 
 ### Working Experiences
@@ -13,6 +12,13 @@
 - Evergreen Wearable Technology Limited
   - Full Stack & Web3 Development Internship [2023-08 to 2023-08]
   - Development Apprenticeship [2023-02 to 2023-05]
+
+---
+
+### Award & Certificate & Honors
+- 📄 Postman API Fundamentals Student Expert - Postman [2023]
+- 🏆 Merit Award - PolyHack2023 Hackathon [2023]
+- 🏆 Honorable Mentions Award - PolyHack2022 Hackathon [2022]
 
 ---
 
