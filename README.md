@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @David200308
 - I'm The Hong Kong PolyU Computer Science Student (Class of 2025)
 - 👀 I’m interested in Web Development & iOS Development & Blockchain Development & Computer Vision
-- 
 ---
 
 ### Working Experiences
@@ -27,10 +26,13 @@
   - **JavaScript**, **TypeScript**, **Python**, **Java**, **SQL**, **Solidity**, **Swift**
 
 - Web Framework (RunTime Env & Backend & Frontend): 
-  - **Node.JS**, **Express.JS**, **Fastify**, **Flask**, **React.JS**, **Next.JS**
+  - **Node.JS**, **Express.JS**, **Fastify**, **Flask**, **React.JS**, **Next.JS**, **Solid.JS**
  
 - Web API Styles: 
   - **RESTful**, **GraphQL**
+
+- Cloud:
+  - AWS, Google Cloud, DigitalOcean
  
 - Mobile Development:
   - **SwiftUI & Swift**, **React Native**
