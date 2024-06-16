@@ -5,7 +5,7 @@
 
 ### Working Experiences
 - Moon Lab Limited
-  - Backend & Blockchain Development Internship [2024-01 to 2024-07]
+  - Backend & Blockchain Development Internship [2024-01 to 2024-08]
 - Omniscol
   - Information Technology Internship [2023-06 to 2023-07]
 - Evergreen Wearable Technology Limited
@@ -38,10 +38,10 @@
   - **SwiftUI & Swift**, **React Native**
  
 - Database: 
-  - **MySQL**, **MongoDB**, **Oracle**, **SQLite**
+  - **MySQL**, **MongoDB**, **Oracle**, **SQLite**, **FireStore**
 
 - Machin Learning:
-  - **Pytorch**, **Keras**
+  - **Keras**
 
 
 <!---
