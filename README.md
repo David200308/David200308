@@ -26,16 +26,16 @@
 
 ### 💻 Developer & User & Learner of
 - Programming: 
-  - **TypeScript**, **JavaScript**, **Python**, **Java**, **SQL**, **Solidity**, **Swift**, **Rust**, **Golang**
+  - **TypeScript**, **JavaScript**, **Python**, **Java**, **SQL**, **Solidity**, **Swift**, **Golang**, **Rust**
 
-- Web Framework (RunTime Env & Backend & Frontend): 
-  - **Node.JS**, **Express.JS**, **Fastify**, **Flask**, **React.JS**, **Next.JS**, **Solid.JS**, **Remix.JS**
+- Web Framework (Backend & Frontend): 
+  - **Nest.JS**, **Express.JS**, **Fastify**, **Flask**, **React.JS**, **Next.JS**, **Solid.JS**, **Remix.JS**
  
 - Web API Styles: 
   - **RESTful**, **GraphQL**
 
 - Cloud:
-  - **AWS**, **Google Cloud**, **DigitalOcean**
+  - **AWS**, **Google Cloud**, **DigitalOcean**, **Terraform**
  
 - Mobile Development:
   - **SwiftUI & Swift**, **React Native**
