@@ -1,17 +1,20 @@
 - 👋 Hi, I’m @David200308
-- I'm The Hong Kong PolyU Computer Science Student (Class of 2025)
+- I'm working at OKX as Software Engineer
+- I graduated from The Hong Kong PolyU BSc (Hons) in Computer Science (Class of 2025)
 - ❤️ Web / Full Stack Development | Cloud Engineering | iOS Development | Blockchain Development
 ---
 
 ### Working Experiences
+- OKX
+  - Software Engineer (Full-time) [2025-07 ~ Current]
 - Moon Lab Limited
-  - Software Engineer Internship (Part-time) [2024-09 to 2024-12]
-  - Software Engineer Internship (Full-time) [2024-01 to 2024-08]
+  - Software Engineer Internship (Part-time) [2024-09 ~ 2024-12]
+  - Software Engineer Internship (Full-time) [2024-01 ~ 2024-08]
 - Omniscol
-  - Information Technology Internship (Full-time) [2023-06 to 2023-07]
+  - Information Technology Internship (Full-time) [2023-06 ~ 2023-07]
 - Evergreen Wearable Technology Limited
-  - Full Stack & Web3 Development Internship (Full-time) [2023-08 to 2023-08]
-  - Development Apprenticeship (Part-time) [2023-02 to 2023-05]
+  - Full Stack & Web3 Development Internship (Full-time) [2023-08 ~ 2023-08]
+  - Development Apprenticeship (Part-time) [2023-02 ~ 2023-05]
 
 ---
 
