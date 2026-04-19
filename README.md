@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @David200308
 - I'm working at OKX as Software Engineer
 - I graduated from The Hong Kong PolyU BSc (Hons) in Computer Science (Class of 2025)
-- ❤️ Web / Full Stack Development | Cloud Engineering | iOS Development | Blockchain Development
+- ❤️ AI Agents & Prompt Engineering | Blockchain Technology | Full Stack Development | Cloud Computing
 ---
 
 ### Working Experiences
@@ -25,6 +25,7 @@
 - 🏆 Merit Award - PolyHack2023 Hackathon [2023]
 - 🏆 Honorable Mentions Award - PolyHack2022 Hackathon [2022]
 
+<!---
 ---
 
 ### 💻 Developer & User & Learner of
@@ -47,7 +48,6 @@
   - **MySQL**, **PostgreSQL**, **MongoDB**, **Oracle**, **SQLite**, **FireStore**
 
 
-<!---
 David200308/David200308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
